@@ -1,7 +1,7 @@
 # 💫 About Me:
 🎓 **Computer Engineering Undergraduate** | Focused on embedded firmware, edge sensing, and applied machine learning foundations.
 
-- 🔭 **Current Focus:** Hands-on embedded systems (**ESP32**, **TI MSP430**), real-time computer vision deployment, and predictive ML workflows.
+- 🔭 **Current Focus:** Hands-on embedded systems (**ESP32**, **TI MSP430**, **Arduino**), real-time computer vision deployment, and predictive ML workflows.
 - 🌱 **Learning & Foundations:** Deepening my grasp of low-level hardware-software boundaries, firmware efficiency, and ML model evaluation pipelines. Still actively learning and strengthening database and distributed backend concepts.
 - 👯 **Looking to Collaborate On:** Student robotics, TinyML, bare-metal microcontroller experiments, and open-source computer vision rigs.
 - 🤝 **Looking for Guidance With:** Low-latency inference runtimes, hardware timing constraints, and memory-safe embedded design.
