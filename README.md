@@ -1,12 +1,15 @@
 # 💫 About Me:
-🎓 **Computer Engineering Undergraduate** | Focused on embedded firmware, edge sensing, and applied machine learning foundations.
+🎓 **Computer Engineering Undergraduate** | Hands-on embedded hardware (ESP32, TI MSP430, Arduino), computer vision pipelines on Raspberry Pi, and predictive ML models.
 
 - 🔭 **Current Focus:** Hands-on embedded systems (**ESP32**, **TI MSP430**), real-time computer vision deployment, and predictive ML workflows.
-- 🌱 **Learning & Foundations:** Deepening my grasp of low-level hardware-software boundaries, firmware efficiency, and ML model evaluation pipelines. Still actively learning and strengthening database and distributed backend concepts.
-- 👯 **Looking to Collaborate On:** Student robotics, TinyML, bare-metal microcontroller experiments, and open-source computer vision rigs.
-- 🤝 **Looking for Guidance With:** Low-latency inference runtimes, hardware timing constraints, and memory-safe embedded design.
-- 💬 **Ask Me About:** What I've built with YOLO on Raspberry Pi, sensor interfacing over UART/I2C, and transitioning from firefighting to computer engineering.
-- ⚡ **Fun Fact:** Trained firefighter turned engineering student—approaching tricky hardware race conditions and broken builds with calm troubleshooting.
+- 🛠️ **Approach & Mindset:** Patient, humble, and dedicated to understanding problems in depth before moving forward. I take the time needed to systematically trace root causes rather than applying quick surface-level patches.
+- 🌱 **Learning & Foundations:** Deepening my grasp of hardware-software boundaries, firmware development, and practical ML pipelines. Still strengthening my software fundamentals like in database systems through coursework.
+- 👯 **Looking to Collaborate On:** Practical embedded systems projects, IoT applications, and projects bridging physical hardware with software.
+- 🤝 **Looking for Guidance With:** Low-level firmware architecture, hardware timing constraints, and writing clean, memory-safe code.
+- 💬 **Ask Me About:** YOLO deployment on Raspberry Pi, C++, Python, circuit/code debugging, and transitioning from firefighting to computer engineering.
+- ⚡ **Fun Fact:**
+- Trained firefighter turned engineering student—approaching tricky hardware race conditions and broken builds with calm troubleshooting.
+- University Helix Facilitator, mentoring incoming freshmen and guiding them through their transition into campus life and culture.
 
 ---
 
