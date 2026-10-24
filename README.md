@@ -3,7 +3,7 @@
 
 - 🔭 **Current Focus:** Hands-on embedded systems (**ESP32**, **TI MSP430**, **Arduino**), real-time computer vision deployment, and predictive ML workflows.
 - 🌱 **Learning & Foundations:** Deepening my grasp of low-level hardware-software boundaries, firmware efficiency, and ML model evaluation pipelines. Still actively learning and strengthening database and distributed backend concepts.
-- 👯 **Looking to Collaborate On:** Student robotics, TinyML, bare-metal microcontroller experiments, and open-source computer vision rigs.
+- 👯 **Looking to Collaborate On:** Practical embedded systems projects, IoT applications, and real-time communication protocols.
 - 🤝 **Looking for Guidance With:** Low-latency inference runtimes, hardware timing constraints, and memory-safe embedded design.
 - 💬 **Ask Me About:** What I've built with YOLO on Raspberry Pi, sensor interfacing over UART/I2C, and transitioning from firefighting to computer engineering.
 - ⚡ **Fun Fact:** Trained firefighter turned engineering student—approaching tricky hardware race conditions and broken builds with calm troubleshooting.
