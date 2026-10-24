@@ -8,8 +8,8 @@
 - 🤝 **Looking for Guidance With:** Low-level firmware architecture, hardware timing constraints, and writing clean, memory-safe code.
 - 💬 **Ask Me About:** YOLO deployment on Raspberry Pi, C++, Python, circuit/code debugging, and transitioning from firefighting to computer engineering.
 - ⚡ **Fun Fact:**
-- Trained firefighter turned engineering student—approaching tricky hardware race conditions and broken builds with calm troubleshooting.
-- University Helix Facilitator, mentoring incoming freshmen and guiding them through their transition into campus life and culture.
+    - Trained firefighter turned engineering student—approaching tricky hardware race conditions and broken builds with calm troubleshooting.
+    - University Helix Facilitator, mentoring incoming freshmen and guiding them through their transition into campus life and culture.
 
 ---
 
