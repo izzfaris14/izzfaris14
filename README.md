@@ -19,15 +19,15 @@ Computer Engineering undergraduate at **Singapore Institute of Technology (SIT)*
   🥇 *1st Place Winner | Agnes AI Hackathon Singapore 2026 (@ SMU)*  
   Multimodal AI wardrobe assistant reducing daily decision fatigue and impulsive spending through intelligent outfit recommendation APIs.
 
-- **[PLiZ — Intelligent Railway Maintenance Workspace](https://github.com/izzfaris14/...)**  
+- **[PLiZ — Intelligent Railway Maintenance Workspace](https://github.com/izzfaris14/LTA-hackathon-2026)**  
   🥈 *2nd Place Winner (Out of 240+ Teams) | Nebula X Hackathon 2026 (LTA & NUS)*  
   FastAPI and React-powered railway maintenance dispatch system dynamically resolving track-access conflicts and automating crew assignments.
 
-- **[Automated Computer Vision Attire Safety Check System](https://github.com/izzfaris14/...)**  
+- **[Automated Computer Vision Attire Safety Check System](https://github.com/izzfaris14/labdoor__pi5)**  
   *Edge AI on Raspberry Pi 5 | Custom YOLOv8 | OpenCV | PyQt*  
   Real-time lab attire enforcement station pairing a global shutter camera with local edge inference to restrict physical access.
 
-- **[Driverless Shuttle & Passenger Scheduling System](https://github.com/izzfaris14/...)**  
+- **[Driverless Shuttle & Passenger Scheduling System](https://github.com/izzfaris14/RoutePlan)**  
   *Modern C++ | SOLID Principles | Strategy & Factory Patterns*  
   Modular autonomous public transit simulator handling strict passenger-matching logic, arrival windows, and vehicle capacity constraints.
 
